@@ -163,7 +163,18 @@ python dashboard.py
 * Cross-browser support
 
 ---
+## 📸 Screenshots
 
+### 🔹 Dashboard UI
+![Dashboard](screenshots/dashboard.png)
+
+### 🔹 Detection Graph
+![Graph](screenshots/graph.png)
+
+### 🔹 Alert Notification
+![Alert](screenshots/alert.png)
+
+---
 ## 👩‍💻 Authors
 
 * V. Ankitha
